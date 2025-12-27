@@ -1,0 +1,1 @@
+# supabase-academic-portal
